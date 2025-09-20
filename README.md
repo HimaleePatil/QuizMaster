@@ -10,6 +10,7 @@ Fun 🎮, simple 💡, and engaging ✨ — perfect for students, developers, an
 
 ![image alt](https://github.com/HimaleePatil/QuizMaster/blob/main/Screenshot%202025-09-18%20165442.png?raw=true)
 
+
 ✨ Features
 
 🧩 Multiple-choice programming questions
@@ -22,6 +23,8 @@ Fun 🎮, simple 💡, and engaging ✨ — perfect for students, developers, an
 
 🚀 Quick & lightweight setup
 
+
+
 🛠 Getting Started
 
 1️⃣ Clone the repo → git clone <your-repo-url>
@@ -29,6 +32,8 @@ Fun 🎮, simple 💡, and engaging ✨ — perfect for students, developers, an
 3️⃣ Install dependencies → npm install
 4️⃣ Start app → npm run dev
 5️⃣ Open in browser 🌐
+
+
 
 🎮 How to Use
 
@@ -39,6 +44,8 @@ Fun 🎮, simple 💡, and engaging ✨ — perfect for students, developers, an
 🏆 See your score instantly
 
 🔄 Retry & improve every time
+
+
 
 🤝 Contributing
 
@@ -51,6 +58,7 @@ Create a branch 🌿
 Commit changes ✍️
 
 Open a Pull Request 🔥
+
 
 📜 License
 
